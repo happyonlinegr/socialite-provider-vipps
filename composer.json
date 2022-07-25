@@ -1,0 +1,19 @@
+{
+    "name": "happyonlinegr/socialite-provider-vipps",
+    "description": "Vipps Provider for Laravel Socialite",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Happyonlinegr\\SocialiteProviderVipps\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giorgos Kalmoukis",
+            "email": "giorgoskalmoukis@gmail.com"
+        }
+    ],
+    "require": {
+        "socialiteproviders/manager": "^4.1"
+    }
+}
